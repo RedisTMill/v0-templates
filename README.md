@@ -1,2 +1,2 @@
 # v0-templates
-Vercel templates for Redis
+v0 templates for Redis
