@@ -89,6 +89,8 @@ Each template README should include:
 Using `https://skills.sh/redis/agent-skills/redis-development` is a good idea.
 
 In this environment, direct install from that URL (and GitHub fallback) is blocked by network proxy `403`, so I could not fetch it automatically right now. Once reachable, we can adopt that skill as the canonical implementation reference and map each template to this contract.
-## Next step
 
-When you share the existing Redis-based v0 template example, we can convert this roadmap into a concrete template contract and scaffold each repo from that standard.
+## First template implemented
+
+We now have a minimal starter at `templates/rate-limiter` for the first build target in Phase 1.
+
