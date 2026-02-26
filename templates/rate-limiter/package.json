@@ -1,0 +1,16 @@
+{
+  "name": "v0-redis-rate-limiter",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.2.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "redis": "^4.7.0"
+  }
+}
